@@ -1,0 +1,14 @@
+D:\Users\Home\Desktop\LINQ29\LINQ29\bin\Debug\LINQ29.exe.config
+D:\Users\Home\Desktop\LINQ29\LINQ29\bin\Debug\LINQ29.exe
+D:\Users\Home\Desktop\LINQ29\LINQ29\bin\Debug\LINQ29.pdb
+D:\Users\Home\Desktop\LINQ29\LINQ29\obj\Debug\LINQ29.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LINQ29\LINQ29\obj\Debug\LINQ29.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LINQ29\LINQ29\obj\Debug\LINQ29.exe
+D:\Users\Home\Desktop\LINQ29\LINQ29\obj\Debug\LINQ29.pdb
+D:\Users\Home\Desktop\LinqObj32\LINQ29\bin\Debug\LINQ29.exe.config
+D:\Users\Home\Desktop\LinqObj32\LINQ29\bin\Debug\LINQ29.exe
+D:\Users\Home\Desktop\LinqObj32\LINQ29\bin\Debug\LINQ29.pdb
+D:\Users\Home\Desktop\LinqObj32\LINQ29\obj\Debug\LINQ29.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LinqObj32\LINQ29\obj\Debug\LINQ29.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LinqObj32\LINQ29\obj\Debug\LINQ29.exe
+D:\Users\Home\Desktop\LinqObj32\LINQ29\obj\Debug\LINQ29.pdb
