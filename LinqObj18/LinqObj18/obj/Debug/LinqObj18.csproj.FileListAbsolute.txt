@@ -1,0 +1,7 @@
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\bin\Debug\LinqObj18.exe.config
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\bin\Debug\LinqObj18.exe
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\bin\Debug\LinqObj18.pdb
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\obj\Debug\LinqObj18.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\obj\Debug\LinqObj18.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\obj\Debug\LinqObj18.exe
+D:\Users\Home\Desktop\LinqObj18\LinqObj18\obj\Debug\LinqObj18.pdb
