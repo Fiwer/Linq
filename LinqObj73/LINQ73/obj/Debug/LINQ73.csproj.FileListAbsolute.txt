@@ -1,0 +1,7 @@
+D:\Users\Home\Desktop\LINQ73\LINQ73\bin\Debug\LINQ73.exe.config
+D:\Users\Home\Desktop\LINQ73\LINQ73\bin\Debug\LINQ73.exe
+D:\Users\Home\Desktop\LINQ73\LINQ73\bin\Debug\LINQ73.pdb
+D:\Users\Home\Desktop\LINQ73\LINQ73\obj\Debug\LINQ73.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LINQ73\LINQ73\obj\Debug\LINQ73.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LINQ73\LINQ73\obj\Debug\LINQ73.exe
+D:\Users\Home\Desktop\LINQ73\LINQ73\obj\Debug\LINQ73.pdb
