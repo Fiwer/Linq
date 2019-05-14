@@ -1,0 +1,7 @@
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\bin\Debug\LinqObj51.exe.config
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\bin\Debug\LinqObj51.exe
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\bin\Debug\LinqObj51.pdb
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\obj\Debug\LinqObj51.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\obj\Debug\LinqObj51.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\obj\Debug\LinqObj51.exe
+D:\Users\Home\Desktop\LinqObj51\LinqObj51\obj\Debug\LinqObj51.pdb

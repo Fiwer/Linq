@@ -1,0 +1,7 @@
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\obj\Debug\LinqObj40.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\obj\Debug\LinqObj40.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\bin\Debug\LinqObj40.exe.config
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\bin\Debug\LinqObj40.exe
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\bin\Debug\LinqObj40.pdb
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\obj\Debug\LinqObj40.exe
+D:\Users\Home\Desktop\LinqObj40\LinqObj40\obj\Debug\LinqObj40.pdb
