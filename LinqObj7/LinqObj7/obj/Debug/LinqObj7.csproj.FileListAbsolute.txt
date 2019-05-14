@@ -1,0 +1,7 @@
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\bin\Debug\LinqObj7.exe.config
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\bin\Debug\LinqObj7.exe
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\bin\Debug\LinqObj7.pdb
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\obj\Debug\LinqObj7.csprojAssemblyReference.cache
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\obj\Debug\LinqObj7.csproj.CoreCompileInputs.cache
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\obj\Debug\LinqObj7.exe
+D:\Users\Home\Desktop\LinqObj7\LinqObj7\obj\Debug\LinqObj7.pdb
